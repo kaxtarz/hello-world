@@ -6,3 +6,5 @@ I then went into readme.md to write this.
 I am suppose to see changes with my new commits.
 
 I am new to github.
+
+Updating the commit changes description
